@@ -1,4 +1,4 @@
-import { CodeIcon, Github, Globe, HomeIcon, NotebookIcon, Plane, Youtube } from 'lucide-svelte';
+import {HomeIcon, NotebookIcon } from 'lucide-svelte';
 // Navbar Icons
 import GithubSvg from '$lib/imgs/github.svg';
 import GithubDarkSvg from '$lib/imgs/github-dark.svg';
